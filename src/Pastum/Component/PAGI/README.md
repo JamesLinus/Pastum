@@ -24,4 +24,4 @@ $app->run();
 More Information
 ----------------
 
-Read the [documentation](PAGI/Resources/doc) for more information.
+Read the [documentation](Resources/doc) for more information.
